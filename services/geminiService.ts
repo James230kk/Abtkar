@@ -3,6 +3,7 @@ import { GoogleGenAI, GenerateContentResponse } from "@google/genai";
 
 // Always use a named parameter for apiKey and obtain from process.env.API_KEY
 const getAIClient = () => {
+  // Use process.env.API_KEY directly as required by guidelines
   return new GoogleGenAI({ apiKey: process.env.API_KEY });
 };
 
