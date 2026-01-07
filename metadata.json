@@ -1,0 +1,21 @@
+{
+  "name": "Copy of ابتكار - Innovation",
+  "short_name": "ابتكار",
+  "description": "مساعد ذكي متطور مدعوم بتقنيات Gemini مع ميزة البحث المباشر.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#212121",
+  "theme_color": "#212121",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10569/10569502.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,30 @@
+
+{
+  "expo": {
+    "name": "ابتكار AI",
+    "slug": "ibtekar-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://cdn-icons-png.flaticon.com/512/10569/10569502.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "https://cdn-icons-png.flaticon.com/512/10569/10569502.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#171717"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.ibtekar"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://cdn-icons-png.flaticon.com/512/10569/10569502.png",
+        "backgroundColor": "#171717"
+      },
+      "package": "com.yourname.ibtekar"
+    },
+    "web": {
+      "favicon": "https://cdn-icons-png.flaticon.com/512/10569/10569502.png"
+    }
+  }
+}
